@@ -477,7 +477,7 @@ pre code {
 
 .message.message-out pre, .message-out code {
     border-color: var(--message-out-control-border);
-    color: var(--message-out-control);
+    color: var(--message-out-control)
 }
 
 .dark .message pre, .dark .message code {
